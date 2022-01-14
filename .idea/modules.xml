@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KataAcademySergachevIV.iml" filepath="$PROJECT_DIR$/.idea/KataAcademySergachevIV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Сalculator/Сalculator.iml" filepath="$PROJECT_DIR$/Сalculator/Сalculator.iml" />
+    </modules>
+  </component>
+</project>
